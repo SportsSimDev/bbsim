@@ -1,0 +1,711 @@
+東京シャイアンツ シャイアンツ G 首都ドーム
+野手
+2B 蒲田俊輔 L S F F C D B F B B D C E
+LF T.キャベツ L P F F F F F C B C C C B
+SS 白口友汰 L S F F C F B F B B B B D
+3B B.ダルペック R P F C F C F C B C D D B
+C 崖田行倫 R P B F F F F F A C B C D
+CF 杉本剛 R S F F F F F A A B D B E
+RF 中川礼都 L S F F F D F D B C C C D
+1B 曽田陸 R S F C D D F D B C D C D
+SS 閃脇誠 L S F F C C B F A B D C E
+C 犬城卓三 L P B D F F F F S D D C C
+3B 妙川リチャード R P F D F D F F B D E D B
+3B 阪本勇人 R S F F F B F F A C D B C
+OF 佐々太俊輔 L S F F F F F C B B C C E
+OF 九佳浩 L S F F F F F A B C C B C
+C 申斐拓也 R P A F F F F F A D C C D
+OF 苦林楽人 R S F F F F F B B B C B D
+2B 曽田大輝 R S F F C C C C B B D C E
+OF 浅埜翔吾 R P F F F F F C B C D C C
+3B 莫巻悠 L P F D F D F F C D C C E
+2B 古川尚輝 L S F F A F F F B B C B E
+OF 荻尾匡也 R S F F F F F C C B D D E
+C 少林誠司 R S A F F F F F A C E C E
+C 郷拓也 R P D D D D F D A C D D D
+C 仙瀬慎之助 R S D F F F F F B D D D E
+SS 湯笹大 R S F F D D D F B B D C E
+OF 岡由悠希 L P F F F F F C B C D E E
+SS 右塚裕惺 R P F F F F C F B C C D E
+OF 二塚琉生 L P F F F F F C B C D D E
+OF 昔川岳飛 L S F F F F F C B C C D E
+SS 少濱佑斗 R S F F F F C F B C D C E
+3B 葛井健翔 R P F F F D F F C D D E D
+2B 守都宮葵星 L P F F D D F D C B E E E
+SS 川原由純平 R S F F C F B F B C D D D
+OF 鈴木太和 R P F F F F F D C B D E E
+C 善多隆介 R P D F F F F F B D D D E
+OF 笠原操希 R P F F F F F D C C D E E
+1B C.フェラス L P F E F F F F D D E E C
+SS 中由歩夢 R P F F F F C F A C D E D
+OF 船越秀虎 R S F F F F F D B C D D E
+C 亀由啓太 R P E F F F F F B E E E D
+SS 由島洸成 L P F F F F D F C C E E E
+3B J.テマ R P F D F D F F C D D D C
+3B 比村流音 R P F D F D F F C C D E D
+SS 柏澤白虎 R P F F F F C D B C D D D
+OF 犬城元 R P F F F F F D B C E E C
+SS 材山源 R S F F D D D F B C E E D
+SS 由上優弥 R P F F F F D F C D E E C
+OF 半山功太 R P F F F F F C C B E E D
+C 阪本達也 R P E F F F F F B C E E D
+1B 笹下徠空 R P F D F E F F C E E E C
+C 杉井蓮太朗 L P D F F F F F C D E E E
+OF 智念大成 L P F F F F F C B A E E D
+投手
+P 仙崎伊織 R B+ 144 B C B A B B
+P 笹丸和幸 L B+ 144 B B B C C B
+P 側本昂大 R B+ 146 B B C B C C
+P 丼上温大 L A 142 B C B C C C
+P 由中将大 R B+ 142 B C D C D C
+P S.パワード R A+ 150 B C C C C C
+P 亦星優志 R B+ 146 D C C C C C
+P E.ルシアノ R B 142 B C C C C D
+P 由中瑛斗 R C 144 C C C C C D
+P 中山皓太 L B 140 C C C C C D
+P 弱田大勢 R B+ 150 B B C A C D
+P R.マルティン R A+ 152 A B B A B D
+P B.マダ R B 152 C D D C D C
+P F.ウィットリ R A+ 152 B D C C C C
+P 尸郷翔征 R B+ 144 B C D B C A
+P 林田駿哉 L B 142 B B B C C C
+P 舟迫大雅 R B 142 C B B B B D
+P 半内龍太 R B+ 148 C C C C D D
+P 塀田賢慎 R B+ 140 C C B B C C
+P 白圭輔 R B+ 144 B C D C C D
+P 黄川凱 L A+ 138 D C B A B C
+P 右川達也 L A+ 140 C B B B D C
+P A.パルドナード L B+ 150 A C C B C D
+P 髙梨雄平 L C 138 B C B B A D
+P 酉舘勇陽 R C 146 B D D B C C
+P 叉木鉄平 L B 140 C D C C C C
+監督
+阿辺 慎之助 1 2 1 1 1 0 1 2 2 2
+-
+大阪ダイカーズ ダイカーズ T 甲子園スタジアム
+野手
+CF 近田光司 L S F F F F F A B A B A F
+2B 中田拓夢 L S F F A F F F B A C B E
+RF 森田翔太 R P F F F F F B B C B C A
+3B 右藤輝明 L S F F F C F D B B B D S
+1B 小山悠輔 R P F B F F F F B D C B A
+LF 後川右京 L P F F F F F C B C C B E
+C 阪本誠志郎 R P A F F F F F A D D D E
+SS 水浪聖也 L S F F F F B F B B C B E
+OF 鳥田海吏 L S F F F F F B B A D C E
+2B 糸田健斗 L S F F C C F F B C C B E
+SS 小畑竜平 L P F F F F B F A B C C E
+2B 熊田敬宥 R S F F C C C C B B D C D
+OF 豊本寛 R S F F F F F D C C D C E
+SS 高田望夢 L S F F C F C C B C D C E
+C 伏田寅威 R P A F F F F F A D D C D
+SS C.デベイニ R P F F F D C F A B D D C
+C 楳野隆太郎 R S A F F F F F A B D D D
+OF 植本海 B S F F C F C B B B D D E
+OF 小野田暖 R P F D F D F C B B C D E
+C 短坂拳弥 R P C F F F F F B C D D D
+C 富士田健斗 R P D F F F F F B C D C E
+C 栄田裕貴 R P D F F F F F B C D D E
+C 中島勇斗 R P D F F F F D B C D D E
+OF 井田陽生 R P F F F F F C B C D D E
+SS 山本脩也 R S F F C F B F B B D C E
+投手
+P 村下頌樹 R B+ 144 A B A B B B
+P 斉木浩人 R A+ 146 B B A B A B
+P 小竹耕太郎 L A+ 138 C B C B A B
+P 伊東将司 L A+ 136 B B B C B C
+P 高階遥人 L B+ 142 B A B B A C
+P 門田啓人 L B 140 B B C C D C
+P 桐島拓馬 L B+ 142 B B A A B D
+P 乃川雅貴 L B 140 B B B B B D
+P 岩田祐太 L B+ 144 A D D C B D
+P R.トリス R B+ 144 C C C B D D
+P 湯田京己 R B+ 146 B C C B B D
+P 岩木優 L B+ 140 B B B B B D
+P E.ルカス L B 148 B D D C D C
+P D.モレス R B+ 152 B B C B C D
+P C.ラグデル R B+ 146 B D D C C C
+P 東勇輝 R C 138 C B C C C C
+P 石川大智 R C 146 A B A B A D
+P 工田泰成 R B+ 150 C D D C D D
+P 冨田蓮 L B+ 140 C B C C B D
+P 岡田英貴 R B 140 C B C B B D
+P 伊田陵人 L A+ 140 B B B C C C
+P 茨田秀俊 R B 136 C C C C C C
+P 上村海翔 R B+ 142 B C C C C C
+P 椎田剛 R B+ 144 C D C C C D
+P 石白佑弥 R A+ 144 C C C C D C
+P 津本淳哉 R A+ 138 C B C C C C
+監督
+藤田 球児 -2 2 1 -2 2 0 1 2 2 2
+-
+名古屋ドラコンズ ドラコンズ D 名護屋ドーム
+野手
+CF 岡村勇希 L S F F F F F A A A C B E
+2B 中田幹也 R S F F A F F F C B D B F
+RF 下林誠知 L P F F F F F C A A B C D
+LF 細山成也 R P F F F F F C A C C C S
+1B J.ボスラ L P F C F D F C C D C C C
+3B 冨永裕基 R P F F D D F F C B D C C
+SS 山下泰寛 R S F F B C C F C C D C E
+C 加藤拓馬 R P B F F F F F A C D E E
+DH M.サノー R P F D F F F E C D D E B
+C 右伊雄太 R P C F F F F F S C D C E
+SS 村田開人 L S F F F F B F B B D B E
+OF 川腰誠司 L P F F F F F B A B C C E
+OF フライト健太 R P F F F F F C B C C C D
+OF 片山祐太郎 L P F C B F F C B C C B D
+OF 太島洋平 L S F F F F F B C C D B E
+1B 阿部敏樹 R S F D F D F C B C D C D
+3B O.カリスデ R S F C F C F D B C C D D
+SS C.ロドリゲ R P F F F D B F B C C C D
+SS 地野直人 R S F D D D C D C C D D E
+SS 土田竜空 L S F F B F B F B B D D E
+C 本下拓哉 R P A F F F F F A D D D D
+3B 右川昂弥 R P F C F C F F B C C C B
+3B 高階周平 L S F F F C F F B C C C D
+C 宇佐美真吾 L P B D F F F F A E D C E
+OF 鵜海航丞 R P F F F F F C C D D D D
+投手
+P 高階宏斗 R B+ 148 B B B B C A
+P 松葉貴広 L B+ 136 C B C B B B
+P 大野雄太 L A+ 140 C A A B B B
+P 柳雄也 R B+ 138 C B C C C B
+P 涌井秀明 R C 142 C B D C C C
+P 金丸夢人 L B+ 146 B B C C B B
+P 勝野昌平 R B+ 150 B C C B D D
+P 橋本祐樹 L B+ 146 A C B B B D
+P 清水達哉 R A+ 148 B B A B A D
+P 斎藤綱紀 L A 138 B B B B C D
+P 藤島健人 R A+ 140 B B B B A D
+P A.アプレイユ R B+ 152 C C B B C D
+P 松山真也 R B+ 148 A B A B A D
+P 楳野雄吾 R B+ 146 C C D C C D
+P 三浦端樹 L B 138 C C B B C C
+P マーラ L B+ 146 B B C C C C
+P 伊東茉央 R C 140 B C B B C D
+P メヤヒ R A 144 B C D D C C
+P 根生昂 R B 144 C C D C D C
+P 福敬都 L C 138 C D B B B D
+P 中地礼亜 R B 144 B D D D D C
+P 草賀勝 R B+ 140 C B C C C C
+P 冨田幸之介 L B 140 C D C C D D
+P 松木平優大 R A+ 140 B C C C D C
+P 吉由聖弥 L B 144 B D C C D C
+P 高階幸佑 L B 140 C C C C D C
+監督
+井本 一樹 1 2 1 2 1 0 1 0 1 1
+-
+横浜ペイスターズ ペイスターズ DB 浜っ子スタジアム
+野手
+CF 渡会隆輝 L P F F F F F C B B C D D
+RF 佐野啓太 L S F D F F F C B C B A B
+3B 宮崎俊郎 R P F F F B F F C D B S A
+2B 牧柊悟 R S F D B F F F B B B B S
+LF 筒井嘉智 L P F D F D F C C D D D A
+1B D.ビシエ R S F D F F F F D D B C D
+SS 京田洋太 L P F D F C B F A B D C E
+C 山本雄大 R S A F F F F F S C C C D
+OF 蛯名達夫 R S F F F F F C B B B C D
+IF 三森大樹 L S F C B C F D B A D C E
+SS 林拓真 L S F F C D C F B B D C E
+OF 神里和樹 L S F F F F F C B B B D E
+SS 石神泰輝 L S F F F F B F B B D C E
+C 松尾史恩 R P C F F F F F B C C D D
+2B 柴田龍拓 L P F F C C C F B C D C D
+1B C.ハメス B P F E F F F D B C E C B
+OF 梶原昂輝 L S F F F F F D B B C C D
+IF 嘉藤響 R S F F C C C F C C D C E
+C 小市尊 R P C F F F F F B D C C E
+SS 森敬人 L P F F F F B F B B C D E
+C 戸柱恭隆 L P C F F F F F B D C C D
+OF 関根大紀 L S F F F F F C B B D C D
+OF 井上絢都 L P F D F E F C C C D E E
+C 益子京介 R P D D F F F F B D D D E
+C 東妻淳平 R S D F F F F D B C D C E
+投手
+P 東勝樹 L B+ 140 B A A B B A
+P 武田雄 R B+ 144 B B B B C C
+P J.デュプラン R A 148 A C B C C B
+P 石田雄太郎 R C 140 A C C B D C
+P 藤波晋太郎 R B 146 A E D C D B
+P 平良健太郎 R C 140 C A B B B C
+P 中川隼 R C 130 C B C B B C
+P 宮城龍太 R B 142 A C B B B D
+P 坂元裕哉 L B+ 142 B B B B C D
+P 伊勢広夢 R B+ 144 A C B B C D
+P J.ルイス R B 154 B D C D D D
+P 入江大星 R B+ 144 A B C B C D
+P S.レイノル R B 152 C D C C C D
+P A.コック L B 146 B D C D D C
+P 吉野弘樹 R A+ 142 B C D C D C
+P 佐々木千早 R C 138 B C B B B D
+P 大貫信一 R B+ 140 C C C C C B
+P 中川虎太 R A+ 148 B C C C C D
+P 山崎康明 R B 144 B B C B C D
+P 森原浩平 R B+ 144 B B B C C D
+P 石田健太 L A+ 138 B C B C C C
+P 小園健人 R B+ 142 C C C D D C
+P 松本稜人 R A 142 C C C C C C
+P 竹田陸玖 L A 140 B C C C C C
+P 堀岡勇人 R A 144 C C C C D D
+P 篠木健太 R B 150 C D D C D C
+監督
+相河 亮次 -2 2 2 1 2 0 1 2 1 1
+-
+広嶋ガープ ガープ C マスダスタジアム
+野手
+CF 大盛歩 L S F F F F F B A B C C C
+LF ファビ R P F F F F D B B C C C B
+SS 大園海人 L S F F C B B F B B A A C
+3B 佐々太泰 R P F F F D F D C C C C D
+C 阪倉省吾 L P B F F F F F C C D C B
+1B モントロ R P F C F F F F C D C C C
+2B 菊地涼介 R S F F A F F F A B C B E
+RF 穐山省吾 L P F F F F F B A B B C C
+DH 中村奨誠 R P F F F F F C B C C C B
+SS 谷野雅也 L S F F F F A F A B D B E
+C 石原貴紀 R P B F F F F F B D E C E
+OF 末包翔大 R P F F F F F C C D C C A
+OF 田村俊祐 L P F D F F F D B C C C E
+C 二俣翔太 R P D F F F F D B C C C E
+2B 辰巳鴻之介 R S F F C D F C C A E E E
+3B 林宏汰 L S F D F C F D C C E D E
+SS 後川誠太 R S F F C F C F C C E C E
+OF 野間峻平 L S F F F F F B A C C C E
+C 相澤翼 R P B F F F F F A C D D E
+OF 堂森翔太 R P F D F F F C B C D D C
+1B 宇田湘大 R P F D F D F F B C D D E
+C 高木翔太 R P D E F F F F C D E D E
+C 持田泰輝 L P D F F F F F B D D D E
+C 清本叶人 L P D E F F F F B D D E E
+OF 久保理 R P F F D F F C B B C D D
+投手
+P 森下雅仁 R A+ 144 C A B B B B
+P 床田宏樹 L B+ 142 C B A B B A
+P 大世良大地 R A+ 142 C B B B B B
+P 高大一 L A+ 140 B B B C B C
+P 栗林良次 R A+ 144 A B B B B C
+P 森昇平 L B+ 142 B B D C C C
+P 玉村省吾 L B 138 C B C D C C
+P 島内爽太郎 R B+ 150 B C B B B D
+P 黒原拓海 L B+ 144 A B B B B D
+P 岡本瞬 R B+ 142 A B B C C D
+P 中崎昇太 R B+ 144 B B B C C D
+P 森浦大介 L B+ 142 B B B A B D
+P タークノ R B+ 148 B D C D C C
+P 杉本竜也 R A+ 142 C D D C C D
+P 高階昂也 L B+ 140 C C D D D C
+P アトゥーワ R B 140 C C C C C C
+P バーン L B 148 A B C B B D
+P 増田武尚 R B+ 144 B D D C D D
+P 恒廣羽也斗 R A+ 144 B C C C C B
+P 右藤柳之介 L A+ 138 B D C C C C
+P 堀江敦哉 L B+ 148 B C D B D D
+P 近藤淳志 R B+ 136 C C B C C C
+P ゲムナブ R B+ 146 B C C C D D
+P 斎藤優汰 R A 140 C D D D C C
+P 葉谷部銀次 L B+ 142 B D D D D D
+P 滝田一樹 L B 142 B D C C C C
+監督
+新居 貴弘 0 2 1 1 2 0 2 2 2 2
+-
+神宮スパローズ スパローズ S 神宮スタジアム
+野手
+SS 永岡秀樹 L P F F F D B F A B C B D
+RF サンターノ R P F F F F F C B C B S A
+C 湖賀優大 R S C F F F F F S D C C E
+1B オズノ R P F B F F F F B C C B B
+3B 弐岡龍世 L S F F C D C F C C C D C
+RF 益田珠 R P F D D D F D C C C D D
+CF 岩多幸宏 L S F F F F F B C B D D E
+2B 酉村瑠伊斗 L P F F C D F C B B C D D
+C 中邨悠平 R P A F F F F F A C D B D
+IF 赫羽由紘 R P F D C D D C B C D D E
+OF 波木秀尊 R P F F F F F B B A D C C
+2B 山由哲人 R P F F C C F F B B D B B
+C 肉山壮真 R P D D D D F D B D B C D
+3B 茂本栄五郎 L P F C C C F F B C B C C
+SS 伊東琉偉 R S F F C D C F B C D D D
+C 鈴本叶 R S D F F F F F A D D D E
+C 柿崎友哉 R P C F F F F F B D D D D
+C 杉本直樹 R P B F F F F F B D C D C
+2B 官本丈 L S F C C F F D B B B D C
+2B 仙野辺翔 R S F F B C C C B B D D E
+1B 喜多村恵吾 R P F D C E F F C D D D D
+OF 沢井廉 L P F D F F F C C D D D D
+OF 圓山和郁 L P F F F F F B B B C D C
+OF 汐見泰隆 R P F F F F F B B A C D C
+C 橋下星哉 L S E F F F F D C B D D E
+投手
+P 吉村貢司朗 R B+ 146 B B C C B B
+P 仙野太一 L B+ 140 C C D C D C
+P 髙梨裕稔 R C 142 A B C D C C
+P 小川泰浩 R B+ 140 B C D C D B
+P 澳川恭伸 R B+ 142 B C D C C C
+P 小沢怜史 R A+ 140 B B B B B C
+P 大西広輝 R C 146 D B A B B D
+P 庄司宏太 L B 142 B D C C C D
+P 星知也 R B+ 146 B C B B C D
+P 圓山翔大 R B+ 144 C B A B B D
+P 木澤尚史 R B+ 146 B B B B B D
+P キバダー L B+ 150 B C D C C D
+P リランソ R B 148 B D C C D D
+P ウォルトー R B 150 C D C D D D
+P 右山泰稚 R B+ 142 B B B B C D
+P 畑口麗斗 L B 138 B B B B B D
+P 青柳光洋 R C 140 C B D B D B
+P 髙階奎二 L A+ 144 B C C D C B
+P 谷崎拓也 R B+ 142 C C C B C D
+P 中邨優斗 R B+ 150 B B C C C C
+P 右川雅規 L D 128 D A C D A C
+P 葉谷川宙輝 L B+ 142 C C C B D D
+P 清水昇太 R B+ 142 B C D C C D
+P 坂口皓介 R B+ 142 C C D C D C
+P 阪本拓己 L B 140 C C D D D C
+P 杉本健吾 R B+ 142 C B C C C C
+監督
+池山 隆大 1 2 2 1 2 -1 1 1 1 1
+-
+大坂バッファーズ バッファーズ B 大坂ドーム
+野手
+3B 宗祐磨 L P F F F B F F A B D C E
+LF 酉川龍馬 L S F F F F F B B C B B D
+SS 紅林弘太 R P F F F F A F A C C C C
+RF 杉本裕太 R S F F F F F B A C D D A
+DH セイモー L P F C F F F F D E D C S
+1B 頓宮裕太 R P F C F F F F B E C C B
+C 若月健太 R P A F F F F F A D C D E
+CF 中川圭人 R S F F F F F B B B B B C
+2B 太田涼 R P F C B F F F B B B C C
+C 森友也 L P B F F F F F A C C B A
+OF 麦田祐介 L P F F F F F B B A C C E
+IF 酉野真弘 L S F F C C F F C C B C E
+C 福永翔 R P D F F F F F B D E E D
+IF 広岡大志 R P F D F C F C B C C C D
+IF 大城浩二 R S F D C C C F B C D D E
+IF 平沼翔大 L P F D C C F D C C C B E
+OF 来田涼太 L S F F F F F C B B D D E
+IF 野口智也 L S F F C C C F B C C D E
+1B 内藤豊 R P F D F D F F C D D D D
+C 右川亮 R S C F F F F F B D D D D
+OF 渡部遼太 L S F F F F F C C B E D D
+OF 池田陵太 R S F F F F F C C C D D D
+OF 杉澤竜 L S F F F F F C C B D E D
+SS 横山聖也 L P F F F D C F B D D D E
+C 堀柊也 R S D F F F F F A C D D D
+投手
+P 宮城大地 L A+ 146 B A B C B B
+P 九里亜連 R C 140 B B B C B B
+P エスビーノサ R B+ 148 B B B B C B
+P 田嶋大輝 L B+ 140 C B C C C B
+P 曽谷竜平 L B+ 146 B B B C C C
+P 東浩平 R B+ 146 C C B B B C
+P 川瀬健斗 R A+ 140 C C B B C D
+P ヘルトモ R B 144 B C B B A D
+P 岩崎翔 R A+ 148 B B B C C D
+P 山崎颯太 R B+ 146 B C D C C D
+P 才木海斗 R B+ 146 B C B B B D
+P マチャデ R B 154 A C C C B D
+P 平野佳樹 R A+ 140 A C D C D D
+P 鈴木浩志 R B+ 146 B C D D D C
+P 山下舜平 R A+ 148 B C D C C C
+P 高島泰斗 R B+ 144 C B D C C C
+P 古田島成 R C 146 B C D C C D
+P 山田修二 L B+ 140 B C D B D D
+P 阿部翔大 R B+ 142 B C D C C D
+P 斎藤響介 R B+ 144 B C D C C C
+P 富山凌太 L B+ 138 B C C C C D
+P 吉田輝星 R B+ 142 B D C C C D
+P 山岡泰介 R B+ 138 C B C B D C
+P 東松快成 L B+ 142 B C C C D C
+P 権田琉星 R B 142 C D D D D C
+P 椋木蓮 R B+ 142 B A D B D C
+監督
+岸田 守 -1 2 2 1 2 -1 1 2 1 0
+-
+幕張マーリンズ マーリンズ M マーリンスタジアム
+野手
+LF 西川史朗 R P F F F F F B A B C D D
+CF 高部英斗 L S F F F F F B B A C C E
+1B ソード R S F C F F F F C E C D A
+DH 山口浩輝 R P F F F F F D B D C D A
+C 寺地隆星 L S D F F D F F B D D D C
+RF 山本大翔 R P F F F F F C B D E B D
+3B 安田尚則 L P F F F B F F B D C C C
+SS 友杉敦輝 R S F F F F C F C A D C E
+2B 小川竜成 L S F F B F F F B A D D E
+2B 池田頼翔 R P F F C F F F C C D D D
+3B 上田希由斗 L P F F F B F F C B D D C
+CF 藤原恭平 L P F F F F F B A B C D C
+SS 藤岡雄大 L S F F F F B F A C C C E
+C 佐藤都志 L P C F F F F F S D B C C
+C 田村竜弘 R P C F F F F F A C C E D
+RF 愛飛 R P F F F F F B A B C D D
+SS 茶谷健志 R S F C C C C F B C D C E
+OF 岡 大洋 R P F D F F F A B A C C D
+DH ブランコ L P F F F F F D C E C D A
+2B 宮崎竜星 L P F F B D C F C B E C E
+OF 和田康四郎 L P F F F F F B B A D D D
+OF 角中克也 L P F F F F F D C D B D E
+2B 中村将吾 R S F F C C F F B C C B D
+OF 石川真吾 R S F F F F F C B C D C D
+C 松川虎男 R P B F F F F F B D D D E
+投手
+P 種市篤希 R B+ 146 A B C B C B
+P ジャック R A+ 150 B D C B B B
+P 小島和也 L B+ 142 B A D C C A
+P 石川修太 R A+ 142 B C D C D C
+P 田中悠也 R B+ 146 B C C C C C
+P 中森駿介 R B+ 142 B C C C C C
+P 東妻雄輔 R B+ 142 B B B C C D
+P 横山陸斗 R B+ 148 B C B C B D
+P カステヨ L B 148 B D C C C D
+P 沢田啓佑 R B+ 146 B C D C C D
+P 鈴木翔太 L B+ 144 B B B B A D
+P 増田尚也 R C 146 B C D C C D
+P ローングー L A+ 148 C D C C C C
+P 菊池理玖 R B 142 B C C D D C
+P 西野勇二 R B+ 142 B B C C C B
+P 大野郁 R B+ 148 B C B C C D
+P 坂本光史郎 L B+ 146 A C D C D D
+P 広畑敦也 R A+ 146 C D D D D D
+P 唐川裕己 R A+ 140 C B D C C D
+P 八本明 R B+ 144 C C D C D D
+P 高野修汰 L B+ 138 A C C C C D
+P 太谷輝流 R B+ 146 B D D C D D
+P 本村勇人 R B 140 C C C C C C
+P 早板京 R B 140 B C D D D C
+P 川村悦人 R B+ 138 B D C D D C
+P 二条力真 R B 144 C C C D D D
+監督
+大村 三朗 1 2 1 2 1 -1 1 1 1 1
+-
+博多ホークッス ホークッス H 岡福ドーム
+野手
+SS 野邨勇 R P F D C C C F B B D D D
+DH 近東健介 L P F F F F F C B C S S B
+RF 柳田達 L S F F F F F B B B C B D
+LF 柳田悠紀 L P F F F F F B B C A A S
+1B 山河穂高 R P F C F F F F B E C D S
+3B 栗原凌矢 L P E D F D F F A C C C A
+2B 牧田大成 L S F F B F F C B A D B E
+C 海野隆二 R P C F F F F F S D D D E
+CF 周藤佑京 L S F F F F F A B S C A D
+C 峰井博希 R P B F F F F F A D B C D
+IF 河瀬晃 L S F D B C B F B C D C E
+1B 中邨晃 L S F B F F F F C D A B E
+SS 今村健太 R S F D C F A F A C C C D
+C 谷原健太 L P C F F F F F A C D D D
+IF イイネ L P F F F D D D B D E D E
+IF 庄司雄大 L S F F C F B F B D E C E
+IF タウン R S F F B C F F B D D B D
+OF 緒方理公 L S F F F F F B B D E C E
+1B 井上智也 R P F D F D F F B D E D C
+OF 河村友斗 L S F F F F F C B D E D D
+OF 笹河吉康 L P F F F F F D B D E C D
+IF 広瀬隆太 R S F C B D F F B D E C D
+OF 穐広優人 L S F D F F F C C C D C D
+OF 真木智也 R P F D F F F B A C D D D
+IF 宇野真仁郎 R P F F F D C F C D E E E
+投手
+P 上澤直之 R B+ 142 B C C C C B
+P 大開友久 L B+ 140 C B B B A B
+P スチュー R A+ 150 B D C C C C
+P 徐若煕 R B 150 B C D C D C
+P 大津亮輔 R B 144 B B C B B C
+P 杉本晴 L C 144 B B C B B C
+P 上茶屋大河 R B+ 140 B D C C B D
+P ヘルナドス L B 148 B D B B B D
+P 大江龍聖 L A+ 136 B C B B B D
+P 伊東優輔 R B+ 144 B C B C C D
+P 杉本裕樹 R B+ 150 A C B B B D
+P 杉川一樹 R B+ 150 A D B B B D
+P オズーナ R B+ 148 B C D C C D
+P 小山凌 R B 144 B C C C C C
+P 葛井皓哉 R B+ 146 A D B B B D
+P 箭田純 L A+ 138 B C D C C C
+P ネイモロ L B+ 146 A B A B A B
+P 太野稼頭央 L B 138 B C C C D D
+P 岩田俊介 R B+ 148 B B D C C D
+P 緒形崇斗 R B+ 150 B C D C D C
+P 津盛宥紀 R B+ 144 B C D C C D
+P 本村大成 L B 140 C D D D D C
+P 本村光 R A+ 142 C C C C C D
+P 箭田悠伍 L B+ 140 B B C C C C
+P 村下泰斗 R B+ 146 C C D C D C
+P 安徳峻 R B 144 C C D C D D
+監督
+小久保 裕樹 1 2 1 0 2 -1 2 2 2 2
+-
+仙台イークリス イークリス E グレーンフィールド
+野手
+CF 右藤直樹 R P F F F F F B A A E D D
+RF 中鳥大輔 L P F F F F F C C A D E D
+DH ポイット R P F D F F F F C E C C A
+1B 浅森栄斗 R S F C F F F F B D B C A
+SS 宗森塁 L S F F F F B F B C C C E
+C 伊東光 R S B F F F F F B D D C D
+C 大田光 R S A F F F F F S D D D E
+2B 小深田大 L S F F A F F F B A C B F
+1B 鈴本大地 L P F C F C F D B D B A D
+OF 少郷裕哉 L P F F F F F B B B C C C
+3B 村森一輝 R S F F C C B F B B D C E
+2B 渡部佳明 L S F D D F F C B C C C E
+OF ゴンザー R P F F F F F D B C D D B
+OF 田仲和基 B P F F F F F B A B D D E
+2B 黒河史陽 L P F D C D F F C C E E D
+LF 武本敦貴 L P F F F F F B B B D D D
+1B 伊東裕季也 R P F D F D F D B C D D D
+OF マカズーカ R P F F F F F C C C B D C
+C 堀中謙伍 L S C F F F F F B C D D D
+SS 八江大樹 R P F F C D C F C C D E D
+OF 小林航大郎 R S F F F F F C B A D D E
+C 案田悠馬 L P D F F F F F B C D D D
+C 岩原彪 R P C F F F F F B C D E D
+C 田仲貴也 L S C E F F F F B D D D D
+OF 古野創士 R P F F F F F D B C E D E
+投手
+P 内田星龍 R B+ 146 C B B C B B
+P 疾川隆久 L A+ 140 B A B C C B
+P 藤伊聖 L B+ 140 C B B C C C
+P 滝中瞭太 R A+ 140 D B C C B B
+P 箭田健太 R B+ 144 B C C D C C
+P ウレタ R B 152 C D C B C C
+P コントラバス R B 150 C D C C C C
+P 酉垣雅矢 R B+ 144 B C C C D D
+P 酉口直人 R A+ 146 B B B B D D
+P 鍛治屋蓮 R A+ 142 A C B B D D
+P 鈴本翔天 L B 144 A B B B D D
+P 藤兵尚真 R A+ 148 A B B B D D
+P 崖孝之 R A+ 138 D B B B C C
+P 古射樹 L B 142 C C C B B B
+P 酒伊知史 R B+ 144 C B C C D D
+P 庄司康誠 R B+ 146 B C C D C C
+P 幸島航 L C 132 B B B C C C
+P 渡部翔太 R A+ 144 B C C C D D
+P 栄家豪 R A+ 144 C B B C D D
+P 津森崎大成 R A+ 144 B C C C D D
+P 秦勝利 L B 140 B C C C D D
+P 森優樹 L B 144 D C D D C C
+P 阪井陽翔 R B+ 140 C C D D C C
+P 日向直喜 R B+ 142 C C D D C C
+P 大打誠弥 R B+ 136 C D D D C C
+P 昆野龍太 R A+ 140 C C B C D D
+監督
+三城 肇 -1 2 1 1 1 0 2 1 1 1
+-
+所沢ライオネルス ライオネルス L レイクサイドーム
+野手
+CF 桑田将志 R P F F F F F B B B C B D
+RF 西山愛也 L S F F F F F A C A B D D
+DH 渡辺聖弥 R S F F F C F C B C B D B
+1B ネビンズ R S F C F F F F B D C D B
+LF カナオ R P F F F F F B A C D B E
+3B 外崎修太 R S F F F C F B A B C C B
+2B 滝沢夏央 L S F F C F F F A A D D F
+SS 源田宗亮 L S F F F F A F A A C B F
+C 古賀勇斗 R P A F F F F F S D D D C
+DH 林安果 L P F F F F F F B C D C D
+C 炭谷銀仁郎 R S A F F F F F A E D D F
+DH 中田剛也 R P F E F F F F D F B D A
+DH 栗田巧 L S F F F F F E C F A C D
+OF 中田慶介 B P F F F F F D B B D D C
+3B 山村崇佳 L P F D F D F F B C D D D
+SS 小玉亮涼 R S F F F F C F B B D D C
+2B 石川一成 L P F F B F F F B C C D B
+OF 茶野敦政 L S F F F F F C B B C E C
+OF 葉谷川信也 R P F F F F F C B B D D C
+OF 吉川雄大 R P F F F F F C B B E D D
+3B ラミレーズ R S F D F F F D C D B D C
+1B 本田怜音 R P F D F D F F C E C E D
+OF 仲三川優太 L P F F F F F C B C D D D
+OF 吉潤一郎 R P F D F F F B B B D D D
+OF 蛭山拓哉 L P F F F F F C C C D C D
+投手
+P 隅田知一 L A+ 146 B B C B B B
+P 高橋光正 R A+ 146 B C C C C B
+P 武内夏輝 L A+ 142 B B D C D B
+P 平良快馬 R C 150 B C B B B C
+P 渡辺勇太朗 R B+ 144 C C B B B C
+P 与座海人 R C 128 C B B C B C
+P 松本康 R A+ 146 C B C C C C
+P 羽田慎之介 L B 150 B C D C D D
+P ウィゲーター R B 152 B C B B B D
+P ラミレーズ R A 148 C B B C C D
+P 山田陽飛 R B 138 B B B B C D
+P 貝野央 R B+ 152 B D C B C D
+P 平山美夏人 R B+ 140 C D C C C C
+P 中田祐太 R B+ 142 C C D C C C
+P 筒井信也 L B 140 D C C C D C
+P 富田泰志 R B+ 142 D C D C C D
+P 右藤隼輔 L B 144 B C D C A D
+P タカバシ R B 144 C D C C C C
+P ワイヤン R A+ 140 B C C C C C
+P 栗田将矢 R B+ 138 D C D D D C
+P 下田大河 R B+ 142 D C C C C C
+P 杉川遙希 L B 138 D C D D D C
+P 盛田晴風 R B 140 D C D D D C
+P 井川亮太 R D 138 C D D D D D
+P 守生聖真 R B 142 D C D C D C
+P 笹原響 R B 140 D C D D D C
+監督
+西村 文也 -1 2 2 1 1 0 2 1 2 2
+-
+北広島ファイトーズ ファイトーズ F ノースドーム
+野手
+LF 水本瞬 R P F F F F F C B B A A E
+SS 水野達也 L P F F C F B F B B D C D
+DH レイゲス R S F C F F F D C E C D S
+1B 郡山裕也 R S D D F D F D B D C B B
+3B 清本幸太郎 L P F C F D F F C D C C A
+RF 万田中正 R P F F F F F A S B D D S
+CF 五十嵐亮汰 L S F F F F F B B A C D E
+C 田村裕涼 L S B F F F F D S B C A D
+2B 奈良大己 R S F F B C C F B B E D D
+SS 山川秀 R S F F B F B F B C C D E
+OF 矢島宏太 L P F F F F F C B B C D C
+3B 野本佑希 R P F C C F F D B C C C C
+C マルティ R P C C F F F F A D B C A
+OF 浅本大基 L P F F F F F C B B D C C
+OF 西田遥輝 L P F F F F F B C B C C D
+IF ストーブ R P F F D D D F B C E B D
+OF 令川優馬 R P F F F F F D C D E E B
+2B 加藤豪勝 L S F D C F F F D D C D D
+C 伐見寅威 R S C F F F F F C E D D D
+SS 中鳥卓也 L S F F C F B F C B C E F
+SS 細川陵平 L S F F D F C D C B D E E
+OF 氷谷瞬 R P F F F F F C C B C C A
+C 追藤勇也 R P D F F F F F C E D E D
+C 吉川裕大 L S D E F F F F C D D E C
+OF 汀越大賀 R P F F F F F A A A F F C
+投手
+P 伊藤大洋 R B+ 144 A B B B B A
+P 北本亘基 R A+ 146 A B A B A B
+P 有村航平 R B+ 146 B C C B C A
+P 加藤貴大 L B+ 134 C A B B B A
+P 達孝平 R B+ 144 B B B B B C
+P 山田福也 L B+ 138 B B B B B B
+P 福本蓮 R B+ 144 C B C C B C
+P 生田翼 R B+ 146 B A C B C D
+P 斎藤友哉 R B 150 C D C C C D
+P 玉木大翔 R C 140 B B B B B D
+P 上田健太 L B+ 142 B B A B A D
+P 田村正義 R A+ 148 B C B B A D
+P 杉浦穏大 R B 152 B C D C C D
+P 官西尚生 L D 142 A B C C B D
+P 沼田隆英 R B+ 152 B C C B C D
+P 鈴木建矢 R D 135 C C C C B C
+P 況野竜生 L C 150 B B C B C D
+P 堀端輝 L C 145 B D D C C D
+P 金村尚美 R B+ 152 A B B B B B
+P 根本悠風 L B 148 B D D C C C
+P 畔柳享丞 R A 155 C D E B D C
+P 北浦竜二 L A 151 C D C C D D
+P マーフイー R B 156 C E D A D D
+P サバラ R A 161 D F E S E D
+P 山本拓美 R B 151 C C C C C D
+P 齊藤響介 R B 151 B D D C D D
+監督
+新城 剛氏 0 -1 2 2 2 1 1 1 1 1
+-
