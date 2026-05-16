@@ -426,9 +426,9 @@ P 椋木蓮 R B+ 142 B A D B D C
 -
 幕張マーリンズ マーリンズ M マーリンスタジアム
 野手
-LF 西川史朗 R P F F F F F B A B C E C D D 1 1
-CF 高部英斗 L S F F F F F B B A C D C B E 0 0
-1B ソード R S F C F F F F C E C B C C A 0 0
+LF 西川史朗 R P F F F F F B A B C D C D D 1 1
+CF 高部英斗 L S F F F F F B B A C C C B E 0 0
+1B ソード R S F C F F F F C E C B B C A 0 0
 DH 山口浩輝 R P F F F F F D B D C C C D A 1 1
 C 寺地隆星 L S D F F D F F B D D E D C C 0 0
 RF 山本大翔 R P F F F F F C B D E E C B D -1 -1
