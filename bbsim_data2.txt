@@ -668,7 +668,7 @@ OF 矢島宏太 L P F F F F F C B B C E D C C 0 0
 3B 野本佑希 R P F C C F F D B C C C B C C 0 0
 C マルティ R P C C F F F F A D B D B C A 0 0
 OF 浅本大基 L P F F F F F C B B D C C C C 0 0
-OF West田遥輝 L P F F F F F B C B C B C C D 0 0
+OF 田遥輝 L P F F F F F B C B C B C C D 0 0
 IF ストーブ R P F F D D D F B C E D B B D 0 0
 OF 令川優馬 R P F F F F F D C D E D C E B 0 0
 2B 加藤豪勝 L S F D C F F F D D C C D D D 0 0 
