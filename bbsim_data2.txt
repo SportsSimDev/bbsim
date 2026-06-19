@@ -457,7 +457,7 @@ P 二条力真 R B 144 C C C D D D 0 over
 博多ホークッス ホークッス H 岡福ドーム
 野手
 SS 野邨勇 R P F D C C C F B B D D C C D 0 0
-DH 近東健介 L P F F F F F C B C S A B S B 1 1
+DH 近東健介 L P F F F F F C B C S A B A B 1 1
 RF 柳田達 L S F F F F F B B B C D C B D 1 1
 LF 柳田悠紀 L P F F F F F B B C A A C A S 0 0
 1B 山河穂高 R P F C F F F F B E C A B D S -1 -1
