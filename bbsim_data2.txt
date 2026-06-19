@@ -459,7 +459,7 @@ P 二条力真 R B 144 C C C D D D 0 over
 SS 野邨勇 R P F D C C C F B B D D C C D 0 0
 DH 近東健介 L P F F F F F C B C S A B A B 1 1
 RF 柳田達 L S F F F F F B B B C D C B D 1 1
-LF 柳田悠紀 L P F F F F F B B C A A C A S 0 0
+LF 柳田悠紀 L P F F F F F B B C A A C B A 0 0
 1B 山河穂高 R P F C F F F F B E C A B D S -1 -1
 3B 栗原凌矢 L P E D F D F F A C C C C C A 1 1
 2B 牧田大成 L S F F B F F C B A D C B B E 1 1
