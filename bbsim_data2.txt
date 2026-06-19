@@ -629,17 +629,17 @@ P 笹原響 R B 140 D C D D D C 0 over
 野手
 LF 水本瞬 R P F F F F F C B B A E C A E 1 1
 SS 水野達也 L P F F C F B F B B D E D C D 1 1
-DH レイゲス R S F C F F F D C E C B B D S 1 1
+DH レイゲス R S F C F F F D C E C B B D A 1 1
 1B 郡山裕也 R S D D F D F D B D C D C B B 2 2
-3B 清本幸太郎 L P F C F D F F C D C C C C A 1 1
-RF 万田中正 R P F F F F F A S B D D A D S -1 -1
+3B 清本幸太郎 L P F C F D F F C D C C C C B 1 1
+RF 万田中正 R P F F F F F A S B D D A D A -1 -1
 CF 五十嵐亮汰 L S F F F F F B B A C D D C E 0 0
 C 田村裕涼 L S B F F F F D S B C A D C B 0 0
 2B 奈良大己 R S F F B C C F B B E E C B D 0 0
 SS 山川秀 R S F F B F B F B C C E D C E 0 0
 OF 矢島宏太 L P F F F F F C B B C E D C C 0 0
 3B 野本佑希 R P F C C F F D B C C C B C C 0 0
-C マルティ R P C C F F F F A D B D B C A 0 0
+C マルティ R P C C F F F F A D B D B C B 0 0
 OF 浅本大基 L P F F F F F C B B D C C C C 0 0
 OF 田遥輝 L P F F F F F B C B C B C C D 0 0
 IF ストーブ R P F F D D D F B C E D B B D 0 0
