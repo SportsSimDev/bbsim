@@ -464,7 +464,7 @@ LF 柳田悠紀 L P F F F F F B B C A A C A S 0 0
 3B 栗原凌矢 L P E D F D F F A C C C C C A 1 1
 2B 牧田大成 L S F F B F F C B A D C B B E 1 1
 C 海野隆二 R P C F F F F F S D D D D D E 0 0
-CF 周藤佑京 L S F F F F F A B S B B C A D 1 1
+CF 周藤佑京 L S F F F F F A B S B B C B D 1 1
 C 峰井博希 R P B F F F F F A D B B C C D -1 -1
 IF 河瀬晃 L S F D B C B F B C D D C B E 0 0
 1B 中邨晃 L S F B F F F F C D A A C B E 0 0
