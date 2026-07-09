@@ -453,6 +453,9 @@ P 本村勇人 R B 140 C C C C C C 0 over
 P 早板京 R B 140 B C D D D C 0 over
 P 川村悦人 R B+ 138 B D C D D C 0 over
 P 二条力真 R B 144 C C C D D D 0 over
+P 毛利山大 L B 142 B C C C C C 0 over
+P 石垣弱気 R A 150 C D C D D D 0 over
+P 桔川優斗 L B 130 D C D E D D side
 監督
 小村 三朗 1 2 1 2 1 -1 1 1 1 1
 -
