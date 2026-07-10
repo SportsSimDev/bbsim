@@ -226,6 +226,16 @@ OF 関根大紀 L S F F F F F C B B D D C C D 0 -2
 OF 井上絢度 L P F D F E F C C C D E D E E 0 -2
 C 益子京介 R P D D F F F F B D D E D D E 0 0
 C 東妻淳平 R S D F F F D B C D E D C E 0 0
+SS 田打真翔 R S F F F D C F B B D E D D D 0 0
+OF 武由陸久 L P F F F F F D B C D E D D D 0 -2
+C 八鬼隆平 R P D D F F F F B C D D D D E 0 0
+OF 浜翔介 L S F F F F F C B B D E D D E 0 -2
+1B 中田康一朗 L P F D F D F D C C D E C D C 0 -2
+2B 鳴瀬脩人 R S F F C F C F B C D E D D E 0 0
+2B 西薪賢次 R S F F C D C F C B C D C D D 0 0
+C 上申凌太 L P E F F F F F C D E E D E E 0 -2
+1B 鈴本連 R P F D F D F F B D E E D E E 0 0
+1B 高水沢郁未 L P F D D D F F C D D E D E E 0 0
 投手
 P 東勝樹 L B+ 140 B A A B B A 0 over
 P 武田雄 R B+ 144 B B B B C C 0 over
@@ -283,6 +293,16 @@ C 高木翔太 R P D E F F F F C D E E E D E 0 0
 C 持田泰輝 L P D F F F F F B D D E D D E 0 -2
 C 清本叶人 L P D E F F F F B D D E D E E 0 -2
 OF 久保理 R P F F D F F C B B C E D D D 0 0
+1B 中田有仁 R P F D F F F F D D D E D E D -1 0
+OF 仲村貴宏 L P F F F F F D D C E E D E D 0 -2
+1B 渡辺悠都 R P E D F F F F B E D E D D E 0 0
+SS 西河篤夢 L S F F F F C F B B D E D D E 0 -2
+OF 名腹典彦 R P F F F F F C C B D E D E E 0 0
+OF ロベルタ R P F F F F F D C D E E D E C -1 0
+1B レミレーズ R P F E F E F F C C E E D E C 0 0
+C 安武俊善 R P E F F F F F B D E E D E E 0 0
+C 小森結大 L P D F F F F F C D E E D E E 0 -2
+2B 岸元中希 L P F F D F D D C A E E D E E 0 -2
 投手
 P 森下雅仁 R A+ 144 C A B B B B 0 over
 P 床田宏樹 L B+ 142 C B A B B A 0 over
@@ -340,6 +360,16 @@ OF 沢井廉 L P F D F F F C C D D E D D D 0 0
 OF 圓山和郁 L P F F F F F B B B C E D C D 0 -2
 OF 汐見泰隆 R P F F F F F B B A C C D C C 0 0
 C 橋下星哉 L S E F F F F D C B D E D E E 0 -2
+OF モイアウト L P F F F F F C C C D E D E D -1 -2
+C 矢野泰次朗 R P D F F F F F B D E E D D E 0 0
+3B 待下歩叶 R P F F F C F F B C D E D E C 0 0
+SS 待川冷央 L S F F C F B F B B C E D D E 0 -2
+2B 岩井巧海 R S F F C C C F C D D E D D E 0 0
+C 中河托真 R P D F F F F F B C D E D E E 0 0
+2B 沢野聖祐 L P F F C F C F B D E E E E D 0 -2
+1B 根木士辰昇 L P F D F F F D C D E E E D E 0 -2
+1B 鷹野颯大 R P F D F D F F C C E E E D E 0 0
+C 松木竜介 R P D F F F F F B B E E E D D 0 0
 投手
 P 吉村貢司朗 R B+ 146 B B C C B B 0 over
 P 仙野太一 L B+ 140 C C D C D C 0 over
