@@ -464,6 +464,15 @@ P 山岡泰介 R B+ 138 C B C B D C 0 over
 P 東松快成 L B+ 142 B C C C D C 0 over
 P 権田琉星 R B 142 C D D D D C 0 over
 P 椋木蓮 R B+ 142 B A D B D C 0 over
+P 佐藤ニ磨 L B 140 C C C C D C 18 over
+P 寺東成豨 R B+ 144 C C D C C C 18 over
+P 人山海都 R B 144 D D D D D D 18 over
+P 藤河敦哉 R B 146 C C D D C C 18 over
+P 林陽木 R B 144 C C C D D C 18 over
+P 佐藤流星 L A 140 C C D D D C 16 side
+P 高屋船 R A 144 C C D D D C 18 side
+P 宇田川祐希 R B+ 146 A D C B C D 24 over
+P 木田仁川 R B+ 146 C C D D D D 22 over
 監督
 森田 守 -1 2 2 1 2 -1 1 2 1 0
 -
@@ -534,6 +543,12 @@ P 二条力真 R B 144 C C C D D D 0 over
 P 毛利山大 L B 142 B C C C C C 0 over
 P 石垣弱気 R A 150 C D C D D D 0 over
 P 桔川優斗 L B 130 D C D E D D side
+P 奥村頼人 L B 140 C C D D D D 18 side
+P 冨士隼斗 R B 146 D D D D D C 18 over
+P 田中大聖 R B 152 D E D D D D 18 over
+P 森遼大朗 R A 142 B C D C D C 18 over
+P 秋山正雲 L B 134 C C D D D C 18 over
+P 茨木佑太 R A 138 C D D D D C 18 side
 監督
 小村 三朗 1 2 1 2 1 -1 1 1 1 1
 -
@@ -601,6 +616,15 @@ P 本村光 R A+ 142 C C C C C D 0 over
 P 箭田悠伍 L B+ 140 B B C C C C 0 over
 P 村下泰斗 R B+ 146 C C D C D C 0 over
 P 安徳駿 R B 144 C D D C D D 0 over
+P 仲村念弥 L B+ 138 C B C C B C 20 over
+P 西浜臣 R C 142 C A C C C B 20 over
+P 稲河竜太 R A 144 C C D C D C 18 over
+P 太竹風賀 R A 138 C D D D D C 20 over
+P 藤原太翔 R B 138 D E D D D C 18 over
+P 河口冬哉 R B 144 B C C C C D 20 over
+P 村由賢市 R C 140 C B C C C C 18 over
+P 長合河威展 L C 136 B B C C C D 18 side
+P 田止奏太 R B+ 144 C C D D D C 20 over
 監督
 大久保 裕樹 1 2 1 0 2 -1 2 2 2 2
 -
@@ -668,6 +692,15 @@ P 阪井陽翔 R B+ 140 C C D D C C 0 over
 P 日向直喜 R B+ 142 C C D D C C 0 over
 P 大打誠弥 R B+ 136 C D D D C C 0 over
 P 昆野龍太 R A+ 140 C C B C D D 0 over
+P 仲込陽斗 R C 142 B C D C C D 22 side
+P 荏原雅裕 R B 150 C D D C D D 22 over
+P 吉賀康成 L B 132 D D D D D C 18 over
+P 藤原聡太 R B 148 C D D D D C 18 over
+P 伊東太晟 L B 140 C D D D D C 18 side
+P 八谷瑠衣 R B 144 C D D D D C 18 side
+P 松田拓磨 R B 140 C C D D D C 18 over
+P 徳山二翔 L B 144 B C D C C C 20 side
+P 中澤匠真 R B 142 D E D D D D 18 over
 監督
 三城 肇 -1 2 1 1 1 0 2 1 1 1
 -
@@ -735,6 +768,15 @@ P 盛田晴風 R B 140 D C D D D C 0 over
 P 井川亮太 R D 138 C D D D D D 0 over
 P 守生聖真 R B 142 D C D C D C 0 over
 P 笹原響 R B 140 D C D D D C 0 over
+P 糸河亮大 R D 138 C D C D D D 20 side
+P 守生聖真 R B 142 C D D C D C 18 over
+P 黒本優大 R B+ 142 C D D D C D 22 over
+P 浜谷将太 L A+ 140 C D D D D C 20 over
+P 富士太和 L B 136 B C D D C C 18 side
+P 佐東爽々 L B 140 C D D D D C 18 side
+P 林脇涼介 R A+ 140 B C C C C D 20 over
+P 高梁令 R C 132 D C C B B C 20 under
+P 正本祐馬 R A 146 D E E D E C 18 over
 監督
 西村 文也 -1 2 2 1 1 0 2 1 2 2
 -
@@ -802,6 +844,15 @@ P マーフイー R B 156 C E D A D D 0 over
 P サバラ R A 161 D F E S E D 0 over
 P 山本拓美 R B 151 C C C C C D 0 over
 P 齊藤響介 R B 151 B D D C D D 0 over
+P 芝田獅士 R A 140 C C C D C C 18 over
+P 藤太流生 L A 142 C D C D D C 18 over
+P 浅利大問 R B 146 C D C D D D 20 over
+P 清水大輝 R A 140 C D D D D C 18 over
+P 大河慈英 R B 146 C C D C D D 20 over
+P 松岡光希 R B 138 D D D C D C 18 side
+P 宮内秋輝 R B 144 C C C D D D 20 side
+P 根木悠風 L B+ 138 B E D C D C 22 side
+P 安齋叶翔 R B 142 C C C D D C 20 side
 監督
 新城 剛氏 0 -1 2 2 2 1 1 1 1 1
 -
