@@ -25,6 +25,16 @@ C 少林誠司 R S A F F F F F A C E E D C E -1 0
 C 郷拓也 R P D D D D F D A C D E D D D 0 0
 C 仙瀬慎之助 R S D F F F F F B D D E D D E 0 0
 SS 湯笹大 R S F F D D D F B B D E D C E 0 0
+SS 岩塚裕星 R P F F F F C F B C C E D D E 0 0
+OF 四塚流生 L P F F F F F C B C D E E D E 0 -2
+2B 宇都田葵月 L P F F D D F D C B E E D E E 0 -2
+SS 河原由準平 R S F F C F B F B C D E D D D 0 0
+C 北由孝介 R P D F F F F F B D D E D D E 0 0
+1B フォリセ L P F E F F F F D D E E C E C 0 -2
+SS 仲田歩夢 R P F F F F C F A C D E E E D 0 0
+C 亀由啓大 R P E F F F F F B E E E D E D 0 0
+1B 北村琉音 R P F D F D F F C C D E D E D 0 0
+OF 智念太成 L P F F F F F C B A E E D E D 0 -2
 投手
 P 仙崎伊織 R B+ 144 B C B A B B 0 over
 P 笹丸和幸 L B+ 144 B B B C C B 0 over
@@ -78,10 +88,20 @@ OF 植本海 B S F F C F C B B B D D D D E 0 0
 OF 小野田暖 R P F D F D F C B B C E D B E 0 0
 C 短坂拳弥 R P C F F F F F B C D E D D D 0 0
 C 富士田健斗 R P D F F F F F B C D E D C E 0 0
-栄田裕貴 R P D F F F F F B C D D D D E 0 0
+C 栄田裕貴 R P D F F F F F B C D D D D E 0 0
 C 中島勇斗 R P D F F F F D B C D E D D E 0 0
 OF 井田陽生 R P F F F F F C B C D E D D E 0 0
 SS 山本脩也 R S F F C F B F B B D E D C E 0 0
+OF 豊由寛 R S F F F F F D C C D E D C E 0 0
+SS 山由脩也 R S F F C F B F B B D E D C E 0 0
+2B 白崎蒼生 R S F F C F C F C C C E D D E 0 0
+1B 佐野太陽 R S F D D D F F B B D E D D E 0 0
+2B 本山飛悠 L S F D C C C F B B D D D D D 0 -2
+OF 浜田大貴 R P F F F F F C B C D D D D E -1 0
+2B 谷端将五 R P F F C D C F C C C E D D D 0 0
+C 島村麟士郎 L P E F F F F F B D D E D D D 0 -2
+2B 川咲俊折 L S F F D F F F B B E E D D D 0 -2
+OF 西純失 R P F F F F F E C D E E D D E 0 0
 投手
 P 村下頌樹 R B+ 144 A B A B B B 0 over
 P 斉木浩人 R A+ 146 B B A B A B 0 over
@@ -139,6 +159,16 @@ C 本下拓哉 R P A F F F F F A D B C C D D 0 0
 3B 高階周平 L S F F F C F F B C C B C C D 1 -2
 C 宇佐美真吾 L P B D F F F F A E D C C C E 0 -2
 OF 鵜海航宿 R P F F F F F C C D D D D D D 0 0
+C 岩橋康大 R P D F F F F F B C D E D D E 0 0
+2B 樋田正秀 L S F F C F C D D A D E D E E 0 -2
+2B 辻木倫太朗 R S F F C D C F B C D E D D D 0 0
+OF 尾由剛樹 L P F F F F F C C B E E D E E 0 -2
+SS 津由啓史 R S F F F D B F B B D E D D D 0 0
+C 山浅竜介 L S D F F F F F B D D E D D E 0 -2
+OF 福本悠馬 R P F F F F F D B D E E D D D 0 0
+C 日度騰揮 L P D F F F F F C D D E D E D 0 -2
+1B 川中利偉 R S F C C F F F C D E E D D D 0 0
+1B 岩川太峨 R P F D F D F F C D E E D D D 0 0
 投手
 P 高階宏斗 R B+ 148 B B B B C A 0 over
 P 松葉貴広 L B+ 136 C B C B B B 0 over
@@ -424,8 +454,16 @@ OF 角中克也 L P F F F F F D C D B B D D E 0 0
 2B 中村将吾 R S F F C C F F B C C B B B D -1 -1
 OF 石川真吾 R S F F F F F C B C C C C D F 0 0
 C 松川虎男 R P B F F F F F B D D D B D E 0 0
-SS 山崎強 L S F F C F B E B A D D D B D 0 -2
-3B 櫻井トウヤ R P F D F D F C C D E D D +1 0 
+C 植川将大 R P D F F F F F B C D E E D D 0 0
+SS 銀田優大 L P F F F D C F C C C D D D E 0 -2
+SS 岩垣雅山 R P F F D D C D B C D D D D D 0 0
+C 立梅由字 L P D D F F F F B D D E D D E 0 -2
+1B 桜丼トウヤ R P F D F D F F C C D E D D D 0 0
+C 岡木了木 R P E F F F F F C C E E D E E 0 0
+SS 山咲強 L S F F C F B D B A D D D B D 0 -2
+SS 松岩信七 R S F F F F D F B B E E E E D 0 0
+OF 杉田了 L S F F F F F D C A D E D E E 0 -2
+OF アーセベル R P F E F F F D C C D E D E C 0 0
 投手
 P 種市篤希 R B+ 146 A B C B C B 0 over
 P ジャック R A+ 150 B D C B B B 0 over
