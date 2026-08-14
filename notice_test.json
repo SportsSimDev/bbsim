@@ -7,7 +7,7 @@
     "url": "market://details?id=com.bbsim.app",
     "urlLabel": "Google Play ストアを開く",
     "isCritical": false
-  }
+  },
   "ios": {
     "id": 2026081301,
     "type": "info",
