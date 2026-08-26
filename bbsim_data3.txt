@@ -564,7 +564,7 @@ SS 岩垣雅山 R P F F D D C D B C D D D D D 0 0
 C 立梅由字 L P D D F F F F B D D E D D E 0 -2
 1B 桜丼トウヤ R P F D F D F F C C D E D D D 0 0
 C 岡木了木 R P E F F F F F C C E E D E E 0 0
-SS 山咲強 L S F F C F B D B B D D D B D 0 -2
+SS 山咲強 L S F F C F B D B C D D D B D 0 -2
 SS 松岩信七 R S F F F F D F B B E E E E D 0 0
 OF 杉田了 L S F F F F F D C A D E D E E 0 -2
 OF アーセベル R P F E F F F D C C D E D E C 0 0
